@@ -1,4 +1,6 @@
 # Sorting Visualization
+live Demo - https://shivamdhiraj.github.io/sorting-visualizer/ 
+
 ### This is a simple visualization project made using javascript 
 - Bubble Sort 
 - Selection Sort
